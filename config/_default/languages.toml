@@ -1,12 +1,12 @@
 [en]
-  title = "Love Animals"
+  title = "Love Style"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [id]
-  title = "Love Animal"
+  title = "Love Style"
   languageName = "Indonesian"
   weight = 2
   languagedir = "ltr"

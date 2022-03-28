@@ -1,6 +1,6 @@
-logoText = "Love Cat"
+logoText = "How to Style"
 logoType = "short" # long, short
-description = "Cute cat pictures, funny cat videos, and the best cat memes.."
+description = "Cute pictures, funny videos, and the best cat memes.."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

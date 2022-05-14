@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Berita Terdepan
+      - Get Mockups
     subtitle:
-      -  Berita Terkini Terbaru hari Ini.
+      -  The best free Mockups from the Web.
     titleColor: 
     titleShadow: true
     titleFontSize: 44
